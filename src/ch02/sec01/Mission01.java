@@ -14,7 +14,7 @@ public class Mission01 {
         // 6. "num: 11" + 22
         // 7. "num: 11" + "22"
         // 8. "num: 1122"  >>  연산의 결과
-        System.out.println("num: " +(num1+num2));
+        System.out.println("num: " +(num1+num2) );
 
     }
 }
