@@ -9,7 +9,6 @@ public class VariableExchangeExample {
        x=y;
        y=z;
 
-
         System.out.println("x: "+ x + ", y: "+y); //x:5, y:3
     }
     //메인 메소드 작성
