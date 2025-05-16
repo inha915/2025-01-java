@@ -6,6 +6,7 @@ public class Mission01 {
         System.out.println("month:" + month);
 
         switch(month) {
+
             case 1,2,12:
                 System.out.println("겨울");
                 break;
